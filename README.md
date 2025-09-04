@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BERLIN one-word domains still available to buy.
 
-This dataset contains 4,310 .BERLIN one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,345 .BERLIN one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BERLIN one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=berlin-oneword-domains&utm_content=description.top) (4,046) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.BERLIN one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/berlin-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/berlin-oneword-domains/blob/main/berlin.csv"><b>⬇️ CSV (4.31K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/berlin-oneword-domains/blob/main/berlin.json"><b>⬇️ JSON (4.31K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/berlin-oneword-domains/blob/main/berlin.csv"><b>⬇️ CSV (4.35K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/berlin-oneword-domains/blob/main/berlin.json"><b>⬇️ JSON (4.35K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=berlin-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.05K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.berlin  | premium   | 50       | 1%     | 9      |           |         |         |
-| abaft.berlin      | premium   | 43       | 2%     | 5      |           |         |         |
-| abandoned.berlin  | premium   | 58       | 10%    | 9      |           |         |         |
-| abashed.berlin    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.berlin     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.berlin   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.berlin     | premium   | 54       | 2%     | 6      |           |         |         |
-| abaxial.berlin    | premium   | 54       | 2%     | 7      |           |         |         |
-| abbatial.berlin   | premium   | 50       | 1%     | 8      |           |         |         |
-| abdicable.berlin  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.berlin  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.berlin | premium   | 56       | 1%     | 10     |           |         |         |
-| abducens.berlin   | premium   | 54       | 1%     | 8      |           |         |         |
-| abducent.berlin   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.berlin  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.berlin    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.berlin | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.berlin   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.berlin    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.berlin  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.berlin    | available | 106      | 5%     | 7      |           |         |         |
-| abient.berlin     | available | 54       | 1%     | 6      |           |         |         |
-| abit.berlin       | available | 66       | 16%    | 5      |           |         |         |
-| abject.berlin     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.berlin     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.berlin  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.berlin     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.berlin  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.berlin    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.berlin   | available | 68       | 3%     | 8      |           |         |         |
+| Domain            | Status    | Attract. | Demand | Length | Registrar | Created          | Expires          |
+| ----------------- | --------- | -------- | ------ | ------ | --------- | ---------------- | ---------------- |
+| aaa.berlin        | resell    | 70       | 38%    | 3      |           | 05/04/2014 22:40 | 05/04/2026 22:40 |
+| abactinal.berlin  | premium   | 50       | 1%     | 9      |           |                  |                  |
+| abaft.berlin      | premium   | 43       | 2%     | 5      |           |                  |                  |
+| abandoned.berlin  | premium   | 58       | 10%    | 9      |           |                  |                  |
+| abashed.berlin    | available | 60       | 2%     | 7      |           |                  |                  |
+| abasic.berlin     | available | 54       | 2%     | 6      |           |                  |                  |
+| abatable.berlin   | available | 54       | 1%     | 8      |           |                  |                  |
+| abatic.berlin     | premium   | 54       | 2%     | 6      |           |                  |                  |
+| abaxial.berlin    | premium   | 54       | 2%     | 7      |           |                  |                  |
+| abbatial.berlin   | premium   | 50       | 1%     | 8      |           |                  |                  |
+| abc.berlin        | available | 102      | 41%    | 3      |           |                  |                  |
+| abdicable.berlin  | available | 50       | 1%     | 9      |           |                  |                  |
+| abdominal.berlin  | available | 82       | 1%     | 9      |           |                  |                  |
+| abdominous.berlin | premium   | 56       | 1%     | 10     |           |                  |                  |
+| abducens.berlin   | premium   | 54       | 1%     | 8      |           |                  |                  |
+| abducent.berlin   | available | 68       | 1%     | 8      |           |                  |                  |
+| abducting.berlin  | available | 50       | 1%     | 9      |           |                  |                  |
+| abenaki.berlin    | available | 82       | 3%     | 7      |           |                  |                  |
+| aberdonian.berlin | available | 68       | 1%     | 10     |           |                  |                  |
+| aberrant.berlin   | available | 74       | 7%     | 8      |           |                  |                  |
+| abeyant.berlin    | available | 56       | 2%     | 7      |           |                  |                  |
+| abhorrent.berlin  | available | 54       | 1%     | 9      |           |                  |                  |
+| abiding.berlin    | available | 106      | 5%     | 7      |           |                  |                  |
+| abient.berlin     | available | 54       | 1%     | 6      |           |                  |                  |
+| ability.berlin    | available | 92       | 18%    | 7      |           |                  |                  |
+| abit.berlin       | available | 66       | 16%    | 5      |           |                  |                  |
+| abject.berlin     | available | 94       | 8%     | 6      |           |                  |                  |
+| abkhas.berlin     | available | 68       | 1%     | 6      |           |                  |                  |
+| abkhasian.berlin  | available | 78       | 1%     | 9      |           |                  |                  |
+| abkhaz.berlin     | available | 82       | 2%     | 6      |           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/berlin-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/berlin-oneword-domains/blob/main/berlin.csv"><b>⬇️ CSV (4.31K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/berlin-oneword-domains/blob/main/berlin.json"><b>⬇️ JSON (4.31K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/berlin-oneword-domains/blob/main/berlin.csv"><b>⬇️ CSV (4.35K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/berlin-oneword-domains/blob/main/berlin.json"><b>⬇️ JSON (4.35K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=berlin-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.05K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
