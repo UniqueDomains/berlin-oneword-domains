@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.BERLIN one word domai
 | aaa.berlin        | resell    | 70       | 38%    | 3      |           | 05/04/2014 22:40 | 05/04/2026 22:40 |
 | abactinal.berlin  | premium   | 50       | 1%     | 9      |           |                  |                  |
 | abaft.berlin      | premium   | 43       | 2%     | 5      |           |                  |                  |
-| abandoned.berlin  | premium   | 58       | 10%    | 9      |           |                  |                  |
+| abandoned.berlin  | premium   | 58       | 7%     | 9      |           |                  |                  |
 | abashed.berlin    | available | 60       | 2%     | 7      |           |                  |                  |
 | abasic.berlin     | available | 54       | 2%     | 6      |           |                  |                  |
 | abatable.berlin   | available | 54       | 1%     | 8      |           |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.BERLIN one word domai
 | abbatial.berlin   | premium   | 50       | 1%     | 8      |           |                  |                  |
 | abc.berlin        | available | 102      | 41%    | 3      |           |                  |                  |
 | abdicable.berlin  | available | 50       | 1%     | 9      |           |                  |                  |
-| abdominal.berlin  | available | 82       | 1%     | 9      |           |                  |                  |
+| abdominal.berlin  | available | 82       | 5%     | 9      |           |                  |                  |
 | abdominous.berlin | premium   | 56       | 1%     | 10     |           |                  |                  |
 | abducens.berlin   | premium   | 54       | 1%     | 8      |           |                  |                  |
 | abducent.berlin   | available | 68       | 1%     | 8      |           |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.BERLIN one word domai
 | aberdonian.berlin | available | 68       | 1%     | 10     |           |                  |                  |
 | aberrant.berlin   | available | 74       | 7%     | 8      |           |                  |                  |
 | abeyant.berlin    | available | 56       | 2%     | 7      |           |                  |                  |
-| abhorrent.berlin  | available | 54       | 1%     | 9      |           |                  |                  |
+| abhorrent.berlin  | available | 54       | 3%     | 9      |           |                  |                  |
 | abiding.berlin    | available | 106      | 5%     | 7      |           |                  |                  |
 | abient.berlin     | available | 54       | 1%     | 6      |           |                  |                  |
 | ability.berlin    | available | 92       | 18%    | 7      |           |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BERLIN one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
