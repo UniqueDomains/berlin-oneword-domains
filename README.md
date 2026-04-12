@@ -75,7 +75,7 @@ print(df.head())
 | good.berlin       | premium   | $1,315.60 | $1,315.60     | 82             | 55     | 4      | namecheap |
 | nationwide.berlin | available | $89.98    | —             | 76             | 66     | 10     | namecheap |
 | prime.berlin      | resell    | —         | —             | 76             | 82     | 5      | —         |
-| zero.berlin       | premium   | $365.78   | $56.99        | 112            | 54     | 4      | name.com  |
+| zero.berlin       | premium   | $365.78   | $56.99        | 112            | 53     | 4      | name.com  |
 | line.berlin       | available | $71.98    | —             | 74             | 65     | 4      | namecheap |
 | box.berlin        | resell    | —         | —             | 68             | 78     | 3      | —         |
 | one.berlin        | premium   | $1,315.60 | $1,315.60     | 132            | 50     | 3      | namecheap |
