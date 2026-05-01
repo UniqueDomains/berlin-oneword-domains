@@ -1,10 +1,10 @@
-# Available .BERLIN One-Word Domains (11,799)
+# Available .BERLIN One-Word Domains (12,002)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C799%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C002%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .berlin one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,799 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,002 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,799 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,002 domains
 
-**Last updated:** 2026-04-27  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/berlin`  
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | girls.berlin       | resell    | —         | —             | 83             | 23     | 5      | —         |
 | children.berlin    | premium   | $1,383.20 | $1,383.20     | 68             | 21     | 8      | namecheap |
 | maps.berlin        | available | $89.98    | —             | 56             | 31     | 4      | namecheap |
-| blogs.berlin       | resell    | —         | —             | 52             | 21     | 5      | —         |
+| outlets.berlin     | resell    | —         | —             | 56             | 10     | 7      | —         |
 | views.berlin       | premium   | $847      | $847          | 62             | 18     | 5      | namecheap |
 | inspiration.berlin | available | $89.98    | —             | 88             | 30     | 11     | namecheap |
 | parties.berlin     | premium   | $847      | $847          | 58             | 13     | 7      | namecheap |
 | SanDiego.berlin    | available | $89.98    | —             | 74             | 29     | 9      | namecheap |
-| IsleofMan.berlin   | premium   | —         | —             | 62             | 91     | 11     | —         |
-| blocks.berlin      | available | $89.98    | —             | 53             | 29     | 6      | namecheap |
 | CocaCola.berlin    | premium   | —         | —             | 92             | 82     | 9      | —         |
-| forms.berlin       | available | $89.98    | —             | 54             | 28     | 5      | namecheap |
+| blocks.berlin      | available | $89.98    | —             | 53             | 29     | 6      | namecheap |
 | RedSox.berlin      | premium   | —         | —             | 72             | 60     | 7      | —         |
+| forms.berlin       | available | $89.98    | —             | 54             | 28     | 5      | namecheap |
+| KFC.berlin         | premium   | —         | —             | 74             | 27     | 3      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,799 live domains                              |
+| 1,000-row public sample | 12,002 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
