@@ -695,6 +695,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3b062024-1b36-47d2-9c0b-ef91015e8544,comeondown.berlin,available,89.98,,76,1,12,namecheap,,
 3b13e936-6cad-4a91-b482-c1fbb3d5e155,excites.berlin,available,89.98,,50,2,7,namecheap,,
 3b1fe520-5c03-4897-9a13-4c59531659df,clipontie.berlin,available,89.98,,56,1,11,namecheap,,
+3b31c9e7-2a06-432b-aa77-6db84a272885,business.berlin,resell,,,90,52,8,,27/11/2015 15:23,27/11/2027 15:23
 3b333f87-ee83-48b8-91b2-8483013f8b7f,Tabascosauce.berlin,premium,,,57,1,13,,,
 3b3e7cf7-90e3-4d8f-a7e7-f18e0fea3ded,keepout.berlin,available,89.98,,70,3,8,namecheap,,
 3b50df16-c4e2-4b3f-9aae-e84c862d2545,brothers.berlin,available,89.98,,60,22,8,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56c5ffd5-0956-4461-944f-02041b67c1b9,RedSox.berlin,premium,,,72,60,7,,,
 56f08f6f-823e-4f5e-b7dc-16a72a4a9805,quieted.berlin,available,89.98,,55,2,7,namecheap,,
 56ff682b-b4d2-447c-9b2a-a6e87a109fb1,puts.berlin,available,89.98,,58,7,4,namecheap,,
-5730ec29-e6a7-4ec7-8b2d-aa4b54cb128b,singleout.berlin,available,89.98,,72,1,10,namecheap,,
