@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .berlin one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,008 domains · **Median ask:** $113.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/berlin`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | stories.berlin     | premium   | $432.60   | $432.60       | 58             | 36     | 7      | namecheap |
 | payments.berlin    | available | $89.98    | —             | 58             | 33     | 8      | namecheap |
 | online.berlin      | resell    | —         | —             | 70             | 62     | 7      | —         |
-| destination.berlin | premium   | $2,025.80 | $2,025.80     | 90             | 25     | 11     | namecheap |
+| destination.berlin | premium   | $2,025.80 | $2,025.80     | 90             | 24     | 11     | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
