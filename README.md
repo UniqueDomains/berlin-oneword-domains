@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .berlin one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,010 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,010 domains · **Median ask:** $113.11 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,010 domains · **Median ask:** $120.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/berlin`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| let.berlin         | available | $89.98    | —             | 88             | 22     | 3      | namecheap |
-| Trex.berlin        | premium   | —         | —             | 80             | 24     | 5      | —         |
-| jewels.berlin      | available | $89.98    | —             | 80             | 15     | 6      | namecheap |
-| forces.berlin      | available | $89.98    | —             | 82             | 12     | 6      | namecheap |
-| Apples.berlin      | premium   | —         | —             | 90             | 16     | 6      | —         |
-| gearup.berlin      | available | $89.98    | —             | 80             | 16     | 7      | namecheap |
-| playon.berlin      | available | $89.98    | —             | 80             | 14     | 7      | namecheap |
-| QandA.berlin       | premium   | —         | —             | 80             | 10     | 7      | —         |
-| toneup.berlin      | available | $89.98    | —             | 80             | 5      | 7      | namecheap |
-| hangon.berlin      | available | $89.98    | —             | 82             | 6      | 7      | namecheap |
-| massive.berlin     | available | $89.98    | —             | 84             | 26     | 7      | namecheap |
-| watches.berlin     | available | $89.98    | —             | 84             | 19     | 7      | namecheap |
-| dogsick.berlin     | available | $89.98    | —             | 90             | 1      | 7      | namecheap |
-| Snickers.berlin    | premium   | —         | —             | 80             | 10     | 8      | —         |
-| agents.berlin      | available | $89.98    | —             | 56             | 50     | 6      | namecheap |
-| hotels.berlin      | resell    | —         | —             | 64             | 82     | 6      | —         |
-| stories.berlin     | premium   | $432.60   | $432.60       | 58             | 36     | 7      | namecheap |
-| payments.berlin    | available | $89.98    | —             | 58             | 33     | 8      | namecheap |
-| online.berlin      | resell    | —         | —             | 70             | 62     | 7      | —         |
-| destination.berlin | premium   | $2,025.80 | $2,025.80     | 90             | 24     | 11     | namecheap |
+| pointy.berlin      | available | $89.98    | —             | 84             | 10     | 6      | namecheap |
+| space.berlin       | premium   | $847      | $847          | 80             | 60     | 5      | namecheap |
+| grandfather.berlin | available | $89.98    | —             | 102            | 6      | 11     | namecheap |
+| dining.berlin      | available | $89.98    | —             | 81             | 15     | 6      | namecheap |
+| demand.berlin      | available | $89.98    | —             | 100            | 21     | 6      | namecheap |
+| version.berlin     | available | $89.98    | —             | 94             | 16     | 7      | namecheap |
+| ancestral.berlin   | premium   | —         | —             | 80             | 14     | 9      | —         |
+| maternal.berlin    | available | $89.98    | —             | 86             | 6      | 8      | namecheap |
+| lesson.berlin      | available | $89.98    | —             | 98             | 14     | 6      | namecheap |
+| guilt.berlin       | available | $89.98    | —             | 86             | 7      | 5      | namecheap |
+| sunhat.berlin      | available | $89.98    | —             | 84             | 5      | 6      | namecheap |
+| terminal.berlin    | available | $89.98    | —             | 104            | 37     | 8      | namecheap |
+| amateur.berlin     | available | $89.98    | —             | 84             | 18     | 7      | namecheap |
+| warm.berlin        | available | $89.98    | —             | 112            | 21     | 4      | namecheap |
+| blowout.berlin     | available | $89.98    | —             | 80             | 7      | 7      | namecheap |
+| guarantee.berlin   | available | $89.98    | —             | 96             | 10     | 9      | namecheap |
+| kamikaze.berlin    | available | $89.98    | —             | 86             | 12     | 8      | namecheap |
+| would.berlin       | available | $89.98    | —             | 104            | 9      | 5      | namecheap |
+| word.berlin        | available | $89.98    | —             | 80             | 35     | 4      | namecheap |
+| tea.berlin         | premium   | $1,408.40 | $1,408.40     | 102            | 37     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
