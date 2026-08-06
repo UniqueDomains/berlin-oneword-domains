@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .berlin one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,010 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,010 domains · **Median ask:** $120.20 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,010 domains · **Median ask:** $115.28 · **High-demand under $2,500:** 46
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/berlin`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/berlin`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BERLIN one-word domai
 
 ### Files
 
-- `berlin.csv` — public CSV extract (1,000 rows)
-- `berlin.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `berlin.csv`, public CSV extract (1,000 rows)
+- `berlin.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| pointy.berlin      | available | $89.98    | —             | 84             | 10     | 6      | namecheap |
-| space.berlin       | premium   | $847      | $847          | 80             | 60     | 5      | namecheap |
-| grandfather.berlin | available | $89.98    | —             | 102            | 6      | 11     | namecheap |
-| dining.berlin      | available | $89.98    | —             | 81             | 15     | 6      | namecheap |
-| demand.berlin      | available | $89.98    | —             | 100            | 21     | 6      | namecheap |
-| version.berlin     | available | $89.98    | —             | 94             | 16     | 7      | namecheap |
-| ancestral.berlin   | premium   | —         | —             | 80             | 14     | 9      | —         |
-| maternal.berlin    | available | $89.98    | —             | 86             | 6      | 8      | namecheap |
-| lesson.berlin      | available | $89.98    | —             | 98             | 14     | 6      | namecheap |
-| guilt.berlin       | available | $89.98    | —             | 86             | 7      | 5      | namecheap |
-| sunhat.berlin      | available | $89.98    | —             | 84             | 5      | 6      | namecheap |
-| terminal.berlin    | available | $89.98    | —             | 104            | 37     | 8      | namecheap |
-| amateur.berlin     | available | $89.98    | —             | 84             | 18     | 7      | namecheap |
-| warm.berlin        | available | $89.98    | —             | 112            | 21     | 4      | namecheap |
-| blowout.berlin     | available | $89.98    | —             | 80             | 7      | 7      | namecheap |
-| guarantee.berlin   | available | $89.98    | —             | 96             | 10     | 9      | namecheap |
-| kamikaze.berlin    | available | $89.98    | —             | 86             | 12     | 8      | namecheap |
-| would.berlin       | available | $89.98    | —             | 104            | 9      | 5      | namecheap |
-| word.berlin        | available | $89.98    | —             | 80             | 35     | 4      | namecheap |
-| tea.berlin         | premium   | $1,408.40 | $1,408.40     | 102            | 37     | 3      | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| axe.berlin    | available | $89.98    | —             | medium         | low    | 3      | namecheap |
+| eye.berlin    | resell    | $3,708.90 | $3,708.90     | medium         | low    | 3      | namecheap |
+| and.berlin    | premium   | $441      | $441          | high           | medium | 3      | namecheap |
+| bow.berlin    | available | $89.98    | —             | high           | low    | 3      | namecheap |
+| future.berlin | resell    | $89.98    | $3,708.90     | high           | medium | 6      | namecheap |
+| boy.berlin    | premium   | $2,063.60 | $2,063.60     | medium         | low    | 3      | namecheap |
+| clv.berlin    | available | $79.98    | $89.98        | low            | low    | 3      | namecheap |
+| big.berlin    | resell    | —         | —             | high           | medium | 3      | —         |
+| cod.berlin    | premium   | $432.60   | $432.60       | high           | low    | 3      | namecheap |
+| clx.berlin    | available | $79.98    | $89.98        | low            | low    | 3      | namecheap |
+| easy.berlin   | resell    | —         | —             | high           | medium | 4      | —         |
+| des.berlin    | premium   | $441      | $441          | high           | low    | 3      | namecheap |
+| cxl.berlin    | available | $79.98    | $89.98        | low            | low    | 3      | namecheap |
+| film.berlin   | resell    | —         | —             | high           | low    | 4      | —         |
+| how.berlin    | premium   | $863.80   | $863.80       | high           | low    | 3      | namecheap |
+| dig.berlin    | available | $89.98    | —             | high           | low    | 3      | namecheap |
+| fund.berlin   | resell    | —         | —             | high           | low    | 4      | —         |
+| joy.berlin    | premium   | $2,063.60 | $2,063.60     | high           | medium | 3      | namecheap |
+| DJI.berlin    | available | $89.98    | —             | high           | low    | 3      | namecheap |
+| game.berlin   | resell    | —         | —             | high           | medium | 4      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,010 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 46 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused entirely on one-word .berlin domains. The set includes short verbs, nouns, and plural forms such as let.berlin, jewels.berlin, forces.berlin, and getup.berlin. For founders, the main question is whether a name feels memorable, easy to say, and locally credible. For investors, the key test is pricing discipline against likely resale depth in a city-specific extension. The median ask here is 113.12, which keeps many names in a budget-aware range, but quality still varies sharply. When comparing these domains, weigh word clarity, commercial intent, plural or awkward usage, and obvious trademark signals before treating a name as ownable now.
+This list of one-word .berlin domains spans everyday names like pierogi.berlin, chaitea.berlin, and letitbe.berlin, alongside more polished picks such as watch.berlin and motors.berlin. Modern-sounding names dominate the tone profile, with elegant and playful names filling smaller niches. Most names are available outright, with a minority sitting in premium or resale status, and pricing across the set skews low relative to typical one-word domain costs.
 
-- All names in this selection use the .berlin extension
-- The list contains 12,005 one-word domain names
-- Median ask across this set is 113.12
-- Check word clarity, local fit, and trademark exposure
+- 11,533 available, 320 premium, 157 resale listings
+- 10,664 domains priced under $500; median ask ~$115
+- 7,798 names rated easy to spell for quick recall
+- Modern tone leads (9,243), ahead of Elegant and Playful
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
