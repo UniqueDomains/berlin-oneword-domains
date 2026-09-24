@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .berlin one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,142 domains · **Median ask:** $92.65 · **High-demand under $2,500:** 56
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/berlin`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| half.berlin    | available | $89.98    | —             | high           | low    | 4      | namecheap |
-| correct.berlin | available | $89.98    | —             | high           | low    | 7      | namecheap |
-| nothing.berlin | available | $89.98    | —             | high           | low    | 7      | namecheap |
-| easy.berlin    | resell    | —         | —             | high           | medium | 4      | —         |
-| what.berlin    | premium   | $441      | $441          | high           | low    | 4      | namecheap |
-| axe.berlin     | available | $89.98    | —             | medium         | low    | 3      | namecheap |
-| eye.berlin     | resell    | $3,708.90 | $3,708.90     | medium         | low    | 3      | namecheap |
-| and.berlin     | premium   | $441      | $441          | high           | medium | 3      | namecheap |
-| bow.berlin     | available | $79.98    | $89.98        | medium         | low    | 3      | namecheap |
-| future.berlin  | resell    | $89.98    | $3,708.90     | high           | medium | 6      | namecheap |
-| boy.berlin     | premium   | $2,063.60 | $2,063.60     | medium         | low    | 3      | namecheap |
-| clv.berlin     | available | $79.98    | $89.98        | low            | low    | 3      | namecheap |
-| big.berlin     | resell    | —         | —             | medium         | low    | 3      | —         |
-| cod.berlin     | premium   | $432.60   | $432.60       | high           | low    | 3      | namecheap |
-| clx.berlin     | available | $79.98    | $89.98        | low            | low    | 3      | namecheap |
-| des.berlin     | premium   | $441      | $441          | high           | low    | 3      | namecheap |
-| cxl.berlin     | available | $79.98    | $89.98        | low            | low    | 3      | namecheap |
-| film.berlin    | resell    | —         | —             | medium         | low    | 4      | —         |
-| how.berlin     | premium   | $863.80   | $863.80       | high           | low    | 3      | namecheap |
-| dig.berlin     | available | $89.98    | —             | high           | low    | 3      | namecheap |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| axe.berlin    | available | $89.98    | —             | medium         | low    | 3      | namecheap |
+| eye.berlin    | resell    | $3,708.90 | $3,708.90     | low            | low    | 3      | namecheap |
+| and.berlin    | premium   | $441      | $441          | high           | medium | 3      | namecheap |
+| bow.berlin    | available | $79.98    | $89.98        | medium         | low    | 3      | namecheap |
+| future.berlin | resell    | $89.98    | $3,708.90     | high           | medium | 6      | namecheap |
+| boy.berlin    | premium   | $2,063.60 | $2,063.60     | medium         | low    | 3      | namecheap |
+| clv.berlin    | available | $79.98    | $89.98        | low            | low    | 3      | namecheap |
+| big.berlin    | resell    | —         | —             | medium         | low    | 3      | —         |
+| cod.berlin    | premium   | $405.60   | $405.60       | low            | low    | 3      | namecheap |
+| clx.berlin    | available | $79.98    | $89.98        | low            | low    | 3      | namecheap |
+| easy.berlin   | resell    | —         | —             | medium         | low    | 4      | —         |
+| des.berlin    | premium   | $441      | $441          | high           | low    | 3      | namecheap |
+| cxl.berlin    | available | $79.98    | $89.98        | low            | low    | 3      | namecheap |
+| film.berlin   | resell    | —         | —             | medium         | low    | 4      | —         |
+| how.berlin    | premium   | $863.80   | $863.80       | high           | low    | 3      | namecheap |
+| dig.berlin    | available | $89.98    | —             | high           | low    | 3      | namecheap |
+| fund.berlin   | resell    | —         | —             | medium         | low    | 4      | —         |
+| joy.berlin    | premium   | $2,063.60 | $2,063.60     | high           | medium | 3      | namecheap |
+| dji.berlin    | available | $89.98    | —             | high           | low    | 3      | namecheap |
+| game.berlin   | resell    | —         | —             | medium         | low    | 4      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
