@@ -1,10 +1,10 @@
-# Available .BERLIN One-Word Domains (31,593)
+# Available .BERLIN One-Word Domains (14,294)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C593%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C294%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .berlin one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,593 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,294 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,593 domains · **Median ask:** $91.64 · **High-demand under $2,500:** 51
+**Public extract:** 1,000 rows · **Live catalog:** 14,294 domains · **Median ask:** $97.06 · **High-demand under $2,500:** 58
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/berlin`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | axe.berlin  | available | $89.98    | —             | high           | low    | 3      | namecheap |
-| job.berlin  | resell    | —         | —             | high           | low    | 3      | —         |
+| buy.berlin  | resell    | —         | —             | high           | medium | 3      | —         |
 | and.berlin  | premium   | $441      | $441          | high           | medium | 3      | namecheap |
 | clv.berlin  | available | $79.98    | $89.98        | high           | low    | 3      | namecheap |
-| map.berlin  | resell    | —         | —             | high           | medium | 3      | —         |
+| job.berlin  | resell    | —         | —             | high           | low    | 3      | —         |
 | ass.berlin  | premium   | $401.70   | $401.70       | high           | low    | 3      | namecheap |
 | clx.berlin  | available | $79.98    | $89.98        | high           | low    | 3      | namecheap |
-| top.berlin  | resell    | —         | —             | high           | medium | 3      | —         |
+| map.berlin  | resell    | —         | —             | high           | medium | 3      | —         |
 | boy.berlin  | premium   | $2,063.60 | $2,063.60     | high           | low    | 3      | namecheap |
 | cxl.berlin  | available | $79.98    | $89.98        | high           | low    | 3      | namecheap |
-| usa.berlin  | resell    | —         | —             | high           | medium | 3      | —         |
+| top.berlin  | resell    | —         | —             | high           | medium | 3      | —         |
 | cap.berlin  | premium   | $441      | $441          | high           | low    | 3      | namecheap |
 | dad.berlin  | available | $89.98    | —             | high           | low    | 3      | namecheap |
-| xxx.berlin  | resell    | —         | —             | high           | medium | 3      | —         |
+| usa.berlin  | resell    | —         | —             | high           | medium | 3      | —         |
 | des.berlin  | premium   | $441      | $441          | high           | low    | 3      | namecheap |
 | dji.berlin  | available | $89.98    | —             | high           | low    | 3      | namecheap |
-| boat.berlin | resell    | —         | —             | high           | low    | 4      | —         |
+| xxx.berlin  | resell    | —         | —             | high           | medium | 3      | —         |
 | eid.berlin  | premium   | $441      | $441          | high           | low    | 3      | namecheap |
 | egg.berlin  | available | $89.98    | —             | high           | low    | 3      | namecheap |
-| this.berlin | resell    | —         | —             | high           | medium | 4      | —         |
+| boat.berlin | resell    | —         | —             | high           | low    | 4      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,593 live domains                        |
+| 1,000-row public sample | 14,294 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 51 high-demand names under $2,500          |
+| Basic exported fields   | 58 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BERLIN One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
