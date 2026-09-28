@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 4a6fc20e-b2bb-4ccd-b122-5a370ba65163,pseudonym.berlin,available,79.98,89.98,high,low,9,namecheap,,,19/09/2026 11:33
 a05667e3-1892-4f81-baef-b4b31333b6ab,intention.berlin,available,79.98,89.98,high,low,9,namecheap,,,22/08/2026 07:55
+ef7b670c-b41d-43aa-b885-758b7ebfb940,bonds.berlin,available,79.98,89.98,high,low,5,namecheap,,,28/09/2026 04:31
 1a575848-5044-4c5b-8fc7-ad1a741376fe,chatty.berlin,available,79.98,89.98,high,low,6,namecheap,,,12/08/2026 03:17
 2a5069da-54fc-4445-b68d-e5187c4dbb65,sunburn.berlin,available,79.98,89.98,high,low,7,namecheap,,,11/09/2026 07:53
 0d8b723e-408f-4a00-b426-bfe3560eb9b4,lightless.berlin,available,79.98,89.98,medium,low,9,namecheap,,,23/08/2026 04:36
@@ -32,6 +33,7 @@ c7d9561a-4965-4c7f-a650-496f6296e069,melancholy.berlin,available,79.98,89.98,hig
 508a94e3-4ae5-4aa3-938e-40bbba1722ed,sedated.berlin,available,79.98,89.98,low,low,7,namecheap,,,16/09/2026 18:04
 8541c85f-ffa4-48df-9a57-950171cd1528,elegantly.berlin,available,79.98,89.98,medium,low,9,namecheap,,,14/09/2026 15:17
 37646dd5-a55d-4787-9711-0c638697ac41,faithless.berlin,available,79.98,89.98,medium,low,9,namecheap,,,17/08/2026 21:14
+6ae129ea-3199-439a-81e6-a67a87be4fa9,computerized.berlin,available,79.98,89.98,high,low,12,namecheap,,,28/09/2026 02:46
 9a112334-c446-4be8-b0a8-7d31868c2fa7,nostrils.berlin,available,89.98,,medium,low,8,namecheap,,,
 84aae83e-12a1-45a0-a478-5fa776dd8814,cross.berlin,available,79.98,89.98,high,low,5,namecheap,,,22/09/2026 16:13
 ed2b455a-2300-4e8d-a1c4-505b2d5c655f,goofy.berlin,available,79.98,89.98,medium,low,5,namecheap,,,12/08/2026 14:50
@@ -70,6 +72,7 @@ dd74d443-47a0-4a45-a75d-822b78312fff,motherlike.berlin,available,79.98,89.98,med
 a27e12e8-69e9-42e2-b9c9-09b4c53845d1,primadonna.berlin,available,89.98,,medium,low,11,namecheap,,,
 ddea3577-0f15-44e2-8032-206affd3f55b,mongoloid.berlin,available,79.98,89.98,medium,low,9,namecheap,,,25/08/2026 04:49
 a45743fc-6b4a-4c3a-910a-9c1caee62701,letter.berlin,available,79.98,89.98,high,low,6,namecheap,,,24/09/2026 02:40
+4ea1e06a-94c5-43e5-a43f-7fdd6c84aba6,probiotic.berlin,available,54.85,54.85,high,low,9,dynadot,,,28/09/2026 02:50
 ba219b10-ae4b-406c-b708-5d7838d0229e,specifically.berlin,available,,,high,low,12,,,,26/09/2026 00:54
 a2ce0ef4-182e-4345-9360-5307543b4145,deciders.berlin,available,79.98,89.98,medium,low,8,namecheap,,,20/09/2026 23:38
 ae184b4e-1dd6-41dc-a0f7-4952bee40545,belonging.berlin,available,79.98,89.98,high,low,9,namecheap,,,23/09/2026 06:53
@@ -138,6 +141,7 @@ b9d47e73-f2e5-408c-a310-136ce7aeddc3,leavened.berlin,available,79.98,89.98,mediu
 77c64a0e-9dc8-4878-9017-426374d175f5,scary.berlin,available,79.98,89.98,high,low,5,namecheap,,,12/08/2026 05:23
 2c95ffce-5472-41fe-906e-0e98646a831d,sainted.berlin,available,79.98,89.98,high,low,7,namecheap,,,
 ec611918-8879-4612-83d9-cad2ae90bd6e,oakley.berlin,available,79.98,89.98,high,medium,6,namecheap,,,19/09/2026 10:26
+f4e38eb0-265b-48af-a258-6f514255c007,eugene.berlin,available,59.99,89.99,high,low,6,godaddy,,,28/09/2026 01:51
 3dea3b1d-aba2-4e18-9cf8-705e33e2849d,octuple.berlin,available,79.98,89.98,medium,low,7,namecheap,,,15/08/2026 21:25
 1bab44e1-6793-4d8e-945d-e38aeaca8c11,namely.berlin,available,89.98,,medium,low,6,namecheap,,,
 65368578-527a-47d6-b749-b017de113531,omar.berlin,available,79.98,89.98,high,low,4,namecheap,,,25/09/2026 15:21
@@ -198,6 +202,7 @@ de25ad43-dfdb-4474-92a4-6f2494f29c4d,gluttonous.berlin,available,79.98,89.98,med
 cc3a907f-0d5d-48f7-b947-3cd51e6c3d6d,lollygag.berlin,available,79.98,89.98,medium,low,8,namecheap,,,11/09/2026 08:29
 b2c83470-9b5b-4eff-8d2b-36055e983561,beers.berlin,available,79.98,89.98,medium,low,5,namecheap,,,27/09/2026 10:55
 f68801ba-2b78-46cf-8a4f-ffb48f0a027e,vacant.berlin,available,79.98,89.98,medium,low,6,namecheap,,,13/09/2026 00:38
+f0c4fd17-fa9e-4989-98e3-4da7d69ba5ea,interfere.berlin,available,54.85,54.85,high,low,9,dynadot,,,28/09/2026 03:20
 ad14e538-8f73-4917-8ba6-39249f04f4b3,jefferson.berlin,available,79.98,89.98,high,low,9,namecheap,,,25/09/2026 23:16
 c5db2e23-5601-4d9f-b44a-fc4d01581cc9,seized.berlin,available,89.98,,medium,low,6,namecheap,,,
 6bd54ec5-fe9e-4105-addc-af1bf851de68,steadfast.berlin,available,79.98,89.98,high,medium,9,namecheap,,,19/09/2026 14:16
@@ -217,13 +222,13 @@ d48e762c-b310-40c6-aa55-bbbc5573cbd1,corona.berlin,available,89.98,,high,medium,
 728c1482-12c5-465c-b933-cf7c7cff7248,vaporized.berlin,available,79.98,89.98,medium,low,9,namecheap,,,18/08/2026 20:28
 46ae7570-397b-4172-89ea-2f6230dfe7bb,detection.berlin,available,89.98,,high,low,9,namecheap,,,
 145b35ed-f799-4643-adba-a7f93a7f8aea,usually.berlin,available,89.98,,high,low,7,namecheap,,,
-928689bc-38b1-4c59-af4e-2ad3d311283c,neuroscience.berlin,available,79.98,89.98,high,low,12,namecheap,,,24/09/2026 07:20
+928689bc-38b1-4c59-af4e-2ad3d311283c,neuroscience.berlin,available,79.98,89.98,high,low,12,namecheap,,,28/09/2026 04:12
 f5425930-33f0-4341-b5cb-22cc7db7d86e,embracing.berlin,available,89.98,,high,low,9,namecheap,,,
 331c0552-2466-4836-80f9-f404b66b56ac,illegible.berlin,available,79.98,89.98,medium,low,9,namecheap,,,21/08/2026 19:48
 a792cc55-e433-4379-9714-058daa5a0258,annoy.berlin,available,89.98,,medium,low,5,namecheap,,,
 f3e4fcc6-39e5-4501-8f24-cf4fa5800cb1,combatant.berlin,available,79.98,89.98,medium,low,9,namecheap,,,09/08/2026 13:29
 2b315bee-f4ec-4b3d-b1b0-04cb3292b73a,mannerism.berlin,available,79.98,89.98,high,low,9,namecheap,,,17/09/2026 14:14
-3c1ad9bd-2ae3-481b-a107-d04cd5e2fcac,green.berlin,resell,,,high,medium,5,,27/11/2015 20:09,27/11/2027 20:09,26/09/2026 06:29
+3c1ad9bd-2ae3-481b-a107-d04cd5e2fcac,green.berlin,resell,,,high,medium,5,,27/11/2015 20:09,27/11/2027 20:09,28/09/2026 05:31
 dd2864d7-5d40-46dd-91f4-e3ed28a48cd3,hiding.berlin,available,79.98,89.98,high,low,6,namecheap,,,08/09/2026 11:45
 3cae9b41-6b0d-430e-afbb-44739ce7020f,enforced.berlin,available,79.98,89.98,medium,low,8,namecheap,,,17/08/2026 07:32
 11a9fb54-a729-40b6-adf0-d0e4f42c9a10,massive.berlin,available,79.98,89.98,high,low,7,namecheap,,,25/09/2026 17:08
@@ -372,7 +377,7 @@ a3bc4e52-87a5-42f1-add6-7767ed86878f,aalto.berlin,available,79.98,89.98,high,low
 bffbe64e-e8f2-41ed-a88f-3ab4f4604472,kelvin.berlin,available,79.98,89.98,high,low,6,namecheap,,,22/08/2026 15:02
 2623cd2f-f4cd-4e0a-8574-a42ec72f7af6,chalkboards.berlin,available,79.98,89.98,low,low,11,namecheap,,,19/09/2026 23:25
 dd91b5d2-28a9-45b0-8013-83f415802f40,convict.berlin,available,79.98,89.98,high,low,7,namecheap,,,24/09/2026 17:58
-502c2762-88ad-4fd9-ab4a-c1bb5176a4b8,graphic.berlin,available,79.98,89.98,high,low,7,namecheap,,,20/08/2026 18:09
+502c2762-88ad-4fd9-ab4a-c1bb5176a4b8,graphic.berlin,available,79.98,89.98,high,low,7,namecheap,,,28/09/2026 05:58
 3cc22229-c55d-4372-9ac3-476c01664da8,panel.berlin,available,79.98,89.98,high,low,5,namecheap,,,19/09/2026 11:40
 ad0849c1-9e85-4309-8bb6-d87eb959de3b,bypast.berlin,available,79.98,89.98,medium,low,6,namecheap,,,11/08/2026 12:08
 d166fa24-164f-48b9-8ef5-4794dff63845,astronomic.berlin,available,79.98,89.98,medium,low,10,namecheap,,,07/08/2026 10:10
@@ -418,6 +423,7 @@ c85cd1fb-06a7-470b-9778-93b816915c4d,conk.berlin,available,79.98,89.98,medium,lo
 c8e8c303-ce5e-484c-a455-6b37701f2224,tent.berlin,available,79.98,89.98,high,low,4,namecheap,,,11/08/2026 15:59
 fe80dede-7fb8-4be4-b51b-52cf328aba81,coagulate.berlin,available,79.98,89.98,medium,low,9,namecheap,,,12/08/2026 13:27
 74811031-97ca-4cfa-8b85-2ffd7bf54ddd,fazed.berlin,available,79.98,89.98,medium,low,5,namecheap,,,10/08/2026 21:00
+d067bd0d-f245-4fcc-b0af-4c94c5e43dea,fayetteville.berlin,available,79.98,89.98,high,low,12,namecheap,,,28/09/2026 04:16
 c499fac1-87f3-444a-ad58-22b6ff869488,abroad.berlin,available,79.98,89.98,high,low,6,namecheap,,,21/09/2026 14:31
 138d284b-fb9d-4d6f-b5a3-f3d8c05aa35f,avidity.berlin,available,79.98,89.98,high,low,7,namecheap,,,21/09/2026 09:28
 9420dcd1-08ef-473b-af2e-9af5c5e86992,handler.berlin,available,79.98,89.98,high,low,7,namecheap,,,19/09/2026 08:51
@@ -484,7 +490,7 @@ efdb3414-fd45-4f46-a1fb-d5bc7c3ec136,lunches.berlin,available,79.98,89.98,medium
 dd49bd57-f76e-46db-a9dc-17a2ba01e30f,seldom.berlin,available,79.98,89.98,medium,low,6,namecheap,,,15/09/2026 22:34
 3f58b7d7-7139-4520-b551-eded954fa0e2,layered.berlin,available,79.98,89.98,high,low,7,namecheap,,,22/08/2026 21:32
 1d530e35-ed58-46b0-8e91-7da0f965e264,bellis.berlin,available,79.98,89.98,high,low,6,namecheap,,,23/09/2026 06:15
-fe45ac21-b593-45a1-8956-f32a925b255e,laboratory.berlin,available,79.98,89.98,high,low,10,namecheap,,,24/09/2026 03:29
+fe45ac21-b593-45a1-8956-f32a925b255e,laboratory.berlin,available,54.85,54.85,high,low,10,dynadot,,,28/09/2026 06:20
 9a77cfde-44db-40fd-966b-e542d09e5e6c,nippy.berlin,available,79.98,89.98,high,low,5,namecheap,,,03/09/2026 17:42
 74bc3aac-1874-450a-afbe-d63ac78f092c,astrocyte.berlin,available,79.98,89.98,medium,low,9,namecheap,,,20/09/2026 17:36
 c4d82124-8b68-495f-92e1-2eafb28f50c0,latin.berlin,available,79.98,89.98,high,low,5,namecheap,,,22/08/2026 20:39
@@ -495,6 +501,7 @@ cfe0e741-9412-4287-bd64-e63950224ecb,dried.berlin,available,79.98,89.98,high,low
 2b13eb9f-2748-44af-ac5e-2b2bdf4427b3,purblind.berlin,available,79.98,89.98,medium,low,8,namecheap,,,14/08/2026 07:58
 4ed7d383-a3a6-4e2c-8480-e82a6a3ca917,divisible.berlin,available,79.98,89.98,high,low,9,namecheap,,,14/08/2026 13:57
 e8bcd1e9-c13b-4b38-bb1c-b0e4f3c70595,ankylosaur.berlin,available,79.98,89.98,medium,low,10,namecheap,,,19/09/2026 09:52
+1c4548a8-accb-431c-94e5-f303bc3211fa,mathias.berlin,available,79.98,89.98,high,low,7,namecheap,,,28/09/2026 05:17
 3707edd0-989c-45bb-a5d8-8af280079a8b,archibald.berlin,available,79.98,89.98,medium,low,9,namecheap,,,25/09/2026 18:45
 ae74e31b-cbd3-4759-b1d5-0b982a696c06,going.berlin,available,79.98,89.98,high,low,5,namecheap,,,24/09/2026 22:35
 fbc5456f-3572-44a1-b5b2-07dc18cfe590,york.berlin,available,89.98,,high,low,4,namecheap,,,
@@ -507,6 +514,7 @@ b6c4e9ca-ba3f-4a16-baa9-ff1f14600962,vicious.berlin,available,79.98,89.98,medium
 3be6ef26-80cb-44cd-8ea0-ad7790511e01,conform.berlin,available,89.98,,high,low,7,namecheap,,,
 dc79e311-897c-4361-baac-e1645a4ccd32,aflame.berlin,available,79.98,89.98,medium,low,6,namecheap,,,
 de7a1a32-d5b1-4647-b626-3b36b7575a87,extends.berlin,available,79.98,89.98,medium,low,7,namecheap,,,18/09/2026 17:32
+c55ee63e-62fb-457c-8d36-2b403dd9fb05,survivors.berlin,available,79.98,89.98,high,low,9,namecheap,,,28/09/2026 05:06
 f1aab556-a011-4022-95b4-aa2b44843e69,duplicity.berlin,available,79.98,89.98,medium,low,9,namecheap,,,14/08/2026 16:52
 0da443a5-9e40-4298-9e26-ab4e785ab458,talented.berlin,available,79.98,89.98,high,low,8,namecheap,,,18/08/2026 23:26
 3eb52d45-5814-4287-ba17-60406c7ea975,alone.berlin,available,79.98,89.98,high,low,5,namecheap,,,22/09/2026 01:57
@@ -550,7 +558,8 @@ bc08b99d-ce47-47fe-ad20-8b6db9dec142,biddable.berlin,available,79.98,89.98,mediu
 5b21f825-070c-4560-a977-ee25f114a2a1,proofs.berlin,available,79.98,89.98,medium,low,6,namecheap,,,18/09/2026 06:55
 b4d4b644-7593-43f3-b780-7cb587fcfe5d,bluewing.berlin,available,79.98,89.98,medium,low,8,namecheap,,,19/09/2026 02:57
 4f255a6c-68a5-4ecd-9ada-71405c466ebb,endodontic.berlin,available,79.98,89.98,medium,low,10,namecheap,,,17/08/2026 01:06
-78b363ad-bf5d-46fb-ac82-4b1b6fef0076,acquisition.berlin,available,79.98,89.98,high,low,11,namecheap,,,24/09/2026 02:35
+f130deeb-3f40-44bf-9027-5e6ddd88e5ee,warriors.berlin,available,79.98,89.98,medium,low,8,namecheap,,,28/09/2026 04:57
+78b363ad-bf5d-46fb-ac82-4b1b6fef0076,acquisition.berlin,available,79.98,89.98,high,low,11,namecheap,,,28/09/2026 05:29
 2e40028c-691e-45ab-8e7a-cb135ba62bdc,tucked.berlin,available,79.98,89.98,high,low,6,namecheap,,,11/09/2026 21:02
 b4d93fff-2554-47e9-9bd6-ba89ea781599,holey.berlin,available,79.98,89.98,medium,low,5,namecheap,,,21/08/2026 10:23
 0a673cfb-420b-4384-82b1-1fe9afece9ac,thin.berlin,available,79.98,89.98,high,low,4,namecheap,,,14/08/2026 07:47
@@ -665,6 +674,7 @@ efd941be-fad4-4aaf-8106-b305962aa2b0,emotional.berlin,available,79.98,89.98,high
 9c040900-32a9-4398-85ce-feac66bb2c4e,lists.berlin,available,79.98,89.98,high,low,5,namecheap,,,17/09/2026 08:32
 447ebc7f-51d8-4500-9f57-ffcd28d08d8b,recklessly.berlin,available,79.98,89.98,medium,low,10,namecheap,,,15/09/2026 22:49
 ffa851ea-9351-4703-9c40-cb6a859be133,structurally.berlin,available,79.98,89.98,medium,low,12,namecheap,,,17/09/2026 20:10
+a0f503d7-4daa-46cd-abb8-9d288244f089,lands.berlin,available,54.85,54.85,medium,low,5,dynadot,,,28/09/2026 04:27
 303ee364-69f1-49c2-9116-9038368f497f,macabre.berlin,available,79.98,89.98,medium,low,7,namecheap,,,18/08/2026 23:19
 973ee5a8-a45c-47f8-a581-972fa27a6431,chu.berlin,premium,405.6,405.6,medium,low,3,namecheap,,,25/09/2026 12:27
 72d38a5c-5ed9-4479-b2b2-5026e11b634e,overeager.berlin,available,79.98,89.98,medium,low,9,namecheap,,,04/09/2026 20:31
@@ -743,6 +753,7 @@ fccf0298-3029-4ee9-b8eb-a99f8ceaff2d,hearing.berlin,available,79.98,89.98,high,l
 4ffd22ed-5bda-442f-8f71-5d41adda4bd7,outlined.berlin,available,79.98,89.98,high,low,8,namecheap,,,04/09/2026 19:31
 b98de03f-e79e-45ba-9f10-90614c0a848e,kissing.berlin,available,79.98,89.98,high,low,7,namecheap,,,24/09/2026 12:56
 dbc204ae-1edb-48ca-aeda-132a4fd0175a,written.berlin,available,54.91,54.91,high,low,7,dynadot,,,27/09/2026 18:44
+fd956647-6336-4a5a-9cbf-588a092fbe87,validation.berlin,available,79.98,89.98,high,low,10,namecheap,,,28/09/2026 02:30
 a3f9d1b1-f7be-4ed5-b928-ead528ec7fe4,nonvisual.berlin,available,79.98,89.98,medium,low,9,namecheap,,,03/09/2026 21:06
 e0ff8f01-5dc4-402b-86de-879fe5882868,paperback.berlin,available,79.98,89.98,high,low,9,namecheap,,,27/09/2026 02:40
 113bfe14-9c32-4e68-95d6-ca0d6b9d2cd9,eugenic.berlin,available,79.98,89.98,medium,low,7,namecheap,,,17/08/2026 14:11
@@ -757,7 +768,7 @@ a1ddf793-66ee-4050-a17c-d8f351aca244,endemic.berlin,available,79.98,89.98,high,l
 0c603581-12b7-47f2-a26c-25c1738a424c,nostalgic.berlin,available,79.98,89.98,high,low,9,namecheap,,,03/09/2026 21:59
 bef6eea2-40b0-4a66-8c93-da210e766fde,technicality.berlin,available,89.98,,high,low,12,namecheap,,,
 834205a2-e224-4f5e-9452-47a809d70599,tattler.berlin,available,79.98,89.98,medium,low,7,namecheap,,,11/09/2026 10:30
-04ac0aa3-7605-4117-8796-483c39361e0a,video.berlin,resell,,,high,medium,5,,08/06/2017 10:27,08/06/2027 10:27,26/09/2026 09:59
+04ac0aa3-7605-4117-8796-483c39361e0a,video.berlin,resell,,,high,medium,5,,08/06/2017 10:27,08/06/2027 10:27,28/09/2026 02:56
 c90d5164-c3ba-4ea5-9b6c-8eef2acfbcdc,salesman.berlin,available,54.91,54.91,high,low,8,dynadot,,,27/09/2026 15:44
 895b3a56-082a-4ae2-92d0-dd82ec8ff4df,farrell.berlin,available,79.98,89.98,medium,low,7,namecheap,,,25/09/2026 05:20
 21d9d394-1c1d-4417-a247-d60276643bb7,pendent.berlin,available,79.98,89.98,medium,low,7,namecheap,,,08/09/2026 14:07
@@ -811,6 +822,8 @@ dc70345d-b131-4acc-a2b8-bc5181b8aade,enduring.berlin,available,79.98,89.98,high,
 f627f534-1069-4e91-965b-91fb0780838a,beetling.berlin,available,79.98,89.98,medium,low,8,namecheap,,,09/08/2026 08:22
 0c8a4c76-16a3-4747-80bd-894510cda64f,monotonous.berlin,available,79.98,89.98,medium,low,10,namecheap,,,25/08/2026 05:30
 4918d897-8d5d-430b-8dce-2aa58557c2a2,culinary.berlin,available,79.98,89.98,high,low,8,namecheap,,,19/09/2026 15:04
+bf3a6ae3-19fd-41e7-93b0-cae64212a889,schooling.berlin,available,79.98,89.98,high,low,9,namecheap,,,28/09/2026 02:34
+619eb8de-4407-4c55-9e97-b97bed040be1,walpole.berlin,available,59.99,89.99,medium,low,7,godaddy,,,28/09/2026 01:54
 fa05e623-d605-404b-821a-6ac53d4a5e93,lingually.berlin,available,79.98,89.98,medium,low,9,namecheap,,,15/09/2026 12:28
 65d89604-aecf-45bf-aae8-22b3903cece8,taller.berlin,available,79.98,89.98,medium,low,6,namecheap,,,19/09/2026 00:16
 83262ff1-a55b-49a7-b6ae-843a8eac11b6,algid.berlin,available,79.98,89.98,medium,low,5,namecheap,,,
@@ -833,6 +846,7 @@ c70c4f74-2197-4a57-a90d-deaba01db816,cholera.berlin,available,79.98,89.98,medium
 1061ef89-725c-42d3-b047-3e5566c93719,rock.berlin,premium,1001.24,54.85,high,low,4,dynadot,,,28/09/2026 00:59
 37138eee-6538-4666-aea3-f1f926adc7f0,silken.berlin,available,79.98,89.98,high,low,6,namecheap,,,09/09/2026 21:43
 2d7a1ba3-7b45-4b9a-8a88-5c881c6da6a5,prisoner.berlin,available,79.98,89.98,high,low,8,namecheap,,,11/08/2026 18:26
+5bb27080-3b02-43a0-bc28-036bd7673e79,ours.berlin,available,79.98,89.98,high,low,4,namecheap,,,28/09/2026 04:28
 f208f444-8b2b-4e6e-8dee-8e569248e93a,sissified.berlin,available,79.98,89.98,medium,low,9,namecheap,,,12/08/2026 08:41
 44f8e9a3-38f3-4246-8bf9-9cd876aeb476,plummy.berlin,available,79.98,89.98,medium,low,6,namecheap,,,08/09/2026 21:51
 dd2b8920-5d14-48dc-ba01-c82e865111e9,border.berlin,available,79.98,89.98,high,low,6,namecheap,,,23/09/2026 00:10
@@ -862,6 +876,7 @@ fc170f79-4c22-4e72-9eca-5c435cc3876d,hyperfine.berlin,available,79.98,89.98,medi
 a7b177f7-aeec-4dcc-97b9-8f847fba1933,wing.berlin,available,79.98,89.98,high,low,4,namecheap,,,22/09/2026 15:49
 802afdb4-fd53-4628-aee0-126419370fa6,billboard.berlin,available,89.98,,high,low,9,namecheap,,,
 424d14df-9d0c-4695-adb8-188aaaa2522a,rectify.berlin,available,79.98,89.98,high,low,7,namecheap,,,23/09/2026 23:41
+98d901f4-2aad-48c2-9887-5ac66215fbfc,lester.berlin,available,54.85,54.85,high,low,6,dynadot,,,28/09/2026 05:11
 650511cf-df6f-412d-a4c5-92354f110153,speed.berlin,available,79.98,89.98,high,medium,5,namecheap,,,25/09/2026 06:43
 57543f7c-c2cb-4a6e-a768-4a7c8220c484,farmer.berlin,available,79.98,89.98,high,low,6,namecheap,,,08/09/2026 06:02
 0077694c-9370-44e2-8aa3-aaae9d1e7a21,garbanzo.berlin,available,79.98,89.98,medium,low,8,namecheap,,,24/09/2026 14:31
@@ -874,6 +889,7 @@ b24c6125-60d8-4c04-b83f-abe319e474e6,abnegation.berlin,available,79.98,89.98,med
 ca017f4d-70ee-4fcf-9b76-5ad8e201c03c,prayerful.berlin,available,79.98,89.98,high,medium,9,namecheap,,,09/09/2026 01:05
 1753e3b9-77e5-4ab7-8409-cb6b6d999e62,chimeric.berlin,available,79.98,89.98,medium,low,8,namecheap,,,12/08/2026 05:37
 5691c454-24c2-41bf-988a-ce6bab7978a2,yeoman.berlin,available,79.98,89.98,medium,low,6,namecheap,,,23/09/2026 01:07
+5413b1cf-b3b7-475d-9097-92d8f49932cf,occupation.berlin,available,54.85,54.85,high,low,10,dynadot,,,28/09/2026 06:05
 fb620ac0-9f7a-4054-8504-97dac51b01fa,bmr.berlin,available,79.98,89.98,high,low,3,namecheap,,,22/09/2026 09:49
 715140b0-7962-4cc1-87ce-1929880ac517,cymry.berlin,available,79.98,89.98,medium,low,5,namecheap,,,13/09/2026 10:45
 5bea3a0e-0737-48c2-8ae3-d60167915da2,unpatented.berlin,available,79.98,89.98,medium,low,10,namecheap,,,12/09/2026 16:29
@@ -881,7 +897,7 @@ fb620ac0-9f7a-4054-8504-97dac51b01fa,bmr.berlin,available,79.98,89.98,high,low,3
 803356c9-420f-4fcd-a426-22e9ed3671e3,glass.berlin,available,89.98,,high,low,5,namecheap,,,
 5c8ae7e9-a4f6-4a5c-8d8a-f5cc7aaa2d17,rey.berlin,available,79.98,89.98,high,low,3,namecheap,,,25/09/2026 16:30
 9c5a33ac-20e2-45b0-be63-ac039f6fa206,urbanized.berlin,available,79.98,89.98,high,low,9,namecheap,,,12/09/2026 23:29
-82220dbc-9c0c-431b-9cf4-a0f62a37a01d,understood.berlin,available,89.98,,high,low,10,namecheap,,,
+82220dbc-9c0c-431b-9cf4-a0f62a37a01d,understood.berlin,available,59.99,89.99,high,low,10,godaddy,,,28/09/2026 02:13
 cc261d9f-16eb-4ac5-997b-dd88d594a9d9,conclusion.berlin,available,79.98,89.98,high,low,10,namecheap,,,23/09/2026 14:51
 840e4e2b-294b-4dfa-b21b-c0d299f755b8,calorific.berlin,available,79.98,89.98,medium,low,9,namecheap,,,11/08/2026 15:12
 bb97d93c-66fd-4532-95bf-c25dd8e0e876,sawtooth.berlin,available,89.98,,medium,low,9,namecheap,,,
@@ -983,19 +999,3 @@ da6772ee-38df-4fe1-8841-0c41ce2dafc9,flukey.berlin,available,79.98,89.98,medium,
 2e045644-33d0-46d0-9c24-05594bf7939e,bookable.berlin,available,79.98,89.98,high,low,8,namecheap,,,10/08/2026 19:04
 9e87dff6-4ecc-4938-bf67-e6ddeaebcd65,diffused.berlin,available,79.98,89.98,medium,low,8,namecheap,,,14/08/2026 07:08
 6b429010-4ce3-4c85-b2a1-18eef12f1b9c,motorized.berlin,available,79.98,89.98,high,low,9,namecheap,,,24/08/2026 18:45
-69dc96fa-683d-411c-a1f1-7a366ee37058,trigger.berlin,available,79.98,89.98,high,low,7,namecheap,,,25/09/2026 06:46
-648adf1b-6189-45f5-8e52-cd1619ab0a53,unsleeping.berlin,available,79.98,89.98,medium,low,10,namecheap,,,12/09/2026 20:02
-31084fac-2823-473f-941d-bfc845583e9c,iceberg.berlin,available,79.98,89.98,high,low,7,namecheap,,,23/09/2026 09:15
-77309c85-be8a-4862-b69b-69881bc5c7ec,importantly.berlin,available,89.98,,medium,low,11,namecheap,,,
-ca24bfc4-d00f-4bd3-beac-3e94b4e30a70,finalized.berlin,available,79.98,89.98,medium,low,9,namecheap,,,17/09/2026 13:05
-b1120ec1-3e70-408e-b0d8-32b7389e1dce,subalpine.berlin,available,79.98,89.98,medium,low,9,namecheap,,,
-f34e78c8-2df0-4abd-9a09-f18b6357bc90,gordian.berlin,available,79.98,89.98,medium,low,7,namecheap,,,20/08/2026 17:03
-87559b13-e90e-4f17-99e2-106c1155fcef,claims.berlin,available,79.98,89.98,high,low,6,namecheap,,,25/09/2026 20:29
-c68a5280-ff58-4141-a110-0f311bdd84cb,frighten.berlin,available,79.98,89.98,medium,low,8,namecheap,,,17/09/2026 14:50
-6faecac0-a270-45e4-806c-478891e70bec,baya.berlin,available,79.98,89.98,medium,low,4,namecheap,,,22/09/2026 17:54
-c094cd3b-155a-44de-81f2-683779528405,cookie.berlin,available,89.98,,high,low,6,namecheap,,,
-f2276412-20d9-4b78-b928-8bfb79755c27,betterment.berlin,available,79.98,89.98,high,low,10,namecheap,,,18/09/2026 18:20
-9d8aae65-607b-416f-8998-98b31d6516c2,alated.berlin,available,79.98,89.98,medium,low,6,namecheap,,,
-9f7b6382-b69e-4a02-8a59-af6e833013b0,denial.berlin,available,89.98,,high,low,6,namecheap,,,
-caff24b2-dafd-409f-be8c-b5c1d3c47d0d,piggy.berlin,available,79.98,89.98,high,low,5,namecheap,,,21/08/2026 10:19
-0c874b70-1274-498f-a643-a1253f1008cf,misses.berlin,available,89.98,,high,low,6,namecheap,,,
